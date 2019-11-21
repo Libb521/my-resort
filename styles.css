@@ -1,0 +1,14 @@
+
+body{
+    text-align: center;
+    background-image: url("https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 27px;
+}
+h1{
+    color: cornflowerblue;
+}
+li{
+    list-style: none;
+}
